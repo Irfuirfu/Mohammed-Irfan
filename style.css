@@ -1,8 +1,155 @@
-h3{
-	color:red;
-	font-family:"Josefin Slab";
+#aboutme{
+			color:red;
+			margin-left:700px;
+			margin-top:-900px;
+			font-size:20px;
 }
-p{
-	color:blue;
-	font-family:"Dosis";
+#aboutmyfamily{
+				color:red;
+				margin-left:870px;
+				margin-top:-25px;
+				font-size:20px;
+}
+#hobbies{
+			color:red;
+			margin-left:1100px;
+			margin-top:-22px;
+			font-size:20px;
+}
+#dreams{
+			color:red;
+			margin-left:1280px;
+			margin-top:-22px;
+			font-size:20px;
+}
+#letsgo{
+			color:white;
+			margin-left:700px;
+			margin-top:230px;
+			font-size:50px;
+}
+#click{
+		color:white;
+		margin-left:700px;
+		margin-top:50px;
+		font-size:30px;
+		
+}
+#ab{
+		color:yellow;
+	
+}
+#abm{
+		color:yellow;
+}
+#ho{
+		color:yellow;
+}
+#dr{
+		color:yellow;
+}
+#a{
+	color:red;
+	font-size:30px;
+	margin-top:-970px;
+	margin-left:700px;
+}
+#myself{
+			color:white;
+			font-size:25px;
+			margin-left:700px;
+			margin-top:60px;
+}
+#img2{
+		margin-left:-730px;
+		margin-top:500px;
+}
+#img3{
+		margin-left:-700px;
+		margin-top:390px;
+}
+#b{
+	color:red;
+	font-size:30px;
+	margin-top:-2980px;
+	margin-left:700px;
+}
+#myfamily{
+			color:white;
+			font-size:25px;
+			margin-left:700px;
+			margin-top:80px;
+}
+#img4{
+		margin-left:-600px;
+		margin-top:200px;
+}
+#c{
+	
+	color:red;
+	font-size:30px;
+	margin-top:670px;
+	margin-left:750px;
+}
+#hobbie{
+			color:white;
+			font-size:25px;
+			margin-left:700px;
+			margin-top:-700px;
+}
+#d{
+		color:red;
+		font-size:30px;
+		margin-top:-850px;
+		margin-left:750px;
+}
+#drea{
+		
+			color:white;
+			font-size:25px;
+			margin-left:700px;
+			margin-top:50px;
+}
+#img5{
+		margin-left:100px;
+		margin-top:-4800px;	
+}
+#img6{
+		margin-left:30px;
+}
+#img7{
+		margin-left:300px;
+		margin-top:-300px;
+}
+#img8{
+		margin-left:30px;
+		margin-top:70px;
+}
+#img9{
+		margin-left:300px;
+		margin-top:-300px;
+}
+#img10{
+		margin-top:-900px;
+		margin-left:80px;
+	  }
+#img11{
+		margin-top:300px;
+		margin-left:100px;
+}
+#img12{
+		margin-top:150px;
+		margin-left:100px;
+}
+#img13{
+		margin-top:-2500px;
+		margin-left:100px;
+}
+#img14{
+		margin-left:100px;
+		margin-top:120px;
+}
+#all{
+	height:1000px;
+	overflow:auto;
 }
